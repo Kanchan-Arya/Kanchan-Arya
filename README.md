@@ -1,9 +1,18 @@
-# Hey, I'm Kanchan 👋
+<!-- ✨ KANCHAN ARYA | GITHUB PROFILE README ✨ -->
 
-I'm passionate about exploring technology, solving problems, and building projects that turn ideas into reality. I enjoy learning new tools, experimenting with code, and improving my development skills every day. 🚀
+<h1 align="center">Hey there, I'm Kanchan 👋</h1>
 
-- 💻 I love building web and applications.
-- 🧩 I enjoy problem-solving and learning how things work.
-- 🌱 I'm continuously learning and improving my skills.
-- 🛠️ I believe in learning by building and experimenting.
-- 📫 Connect with me through my GitHub profile!
+<h3 align="center"> Developer | Dreamer | Learner</h3>
+
+## 🌸 A Little About Me
+
+- 🌱 Always learning and exploring new technologies.
+- 💡 I love turning creative ideas into practical projects.
+- 🧩 Debugging is just detective work with extra coffee.
+- 🎯 Working towards becoming a better developer every day.
+- 🤝 Open to learning, collaboration, and new opportunities.
+
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Kanchan-Arya&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
