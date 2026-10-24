@@ -1,4 +1,4 @@
-# Hey, I'm Kanchan Arya 👋
+# Hey, I'm Kanchan 👋
 
 I'm passionate about exploring technology, solving problems, and building projects that turn ideas into reality. I enjoy learning new tools, experimenting with code, and improving my development skills every day. 🚀
 
