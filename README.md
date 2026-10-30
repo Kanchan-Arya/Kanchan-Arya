@@ -25,10 +25,6 @@
 ## 📈 My GitHub Universe
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kanchan-Arya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchan-Arya&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-<p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Kanchan-Arya&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
